@@ -60,23 +60,18 @@
 - [Backbone.Marionette.js: A Serious Progression](https://leanpub.com/marionette-serious-progression) by David Sulc
 - [Getting Started with Backbone Marionette](http://www.amazon.com/dp/1783284250/) by Raymundo Armendariz and Arturo Soto
 - [Marionette Guides](https://www.gitbook.com/book/marionette/marionette-guides/details)
-- [Better Backbone Applications with MarionetteJS](https://shop.smashingmagazine.com/products/better-backbone-applications-with-marionettejs)
+- [Better Backbone Applications with MarionetteJS](https://www.amazon.com/Better-Backbone-Applications-MarionetteJS-Zimmerman-ebook/dp/B00N9V1W22)
 
 ## Videos
 
 - [Dancing with Marionette](https://www.youtube.com/channel/UC6dVRPnSACav2AYB5XG7BZw) - Youtube channel
 - [Backbone.js with Derick Bailey](https://www.youtube.com/watch?v=VERQEr-bVTs) by Derick Bailey
 - [The Tools and Patterns for Building Large-Scale Backbone Applications](https://www.youtube.com/watch?v=qWr7x9wk6_c) by Brian Mann
-- [Episode 03 of BackboneRails Screencast](https://www.youtube.com/watch?v=KT31H3Ayliw) by Brian Mann
 - [Backbone Marionette and Require.js](https://www.youtube.com/watch?v=4K4JKtAGPu4) by Daniel Cousineau
-- [Backbone's Rarely Enough: An Introduction to Backbone Marionette](https://www.youtube.com/watch?v=fZJMF4SOKm4) by Len Smith
 - [Unsuck Your Backbone](http://www.youtube.com/watch?v=0o2whtCJw8I) by Amy Palamountain
-- [Building Modular and Component Driven Architecture in Backbone.js and Marionette.js](https://www.youtube.com/watch?v=PrQSpdWkN6Q) by Jeremy Fairbank [Slides](http://presentboldly.com/jfairbank/modular-and-component-driven-architecture-in-marionettejs/)
-- [Marionette: The Backbone Framework from BackboneConf 2014](https://www.youtube.com/watch?v=EvQnntaqVdE&index=13&list=PLlgxAbM67lYIGw8DnANC7VgREbzJRQged) by James Smith
 - [Building Beautiful Apps with Marionette](https://www.youtube.com/watch?v=7yZKsgKxziw)
 - [Nesting Your Views in Marionette](https://www.youtube.com/watch?v=CTr-tTwRH3o)
 - [Marionette Behaviors](https://www.youtube.com/watch?v=6wvAswHkarE)
-- [Backbone.Wreqr](https://www.youtube.com/watch?v=2b1G3TdlQEU)
 - [Jason Laster - Backbone Under the Magnifying Glass Tools for Exploring and Debugging Your Apps](https://www.youtube.com/watch?v=jbGm3mJXh_s)
 - [Browserify + Marionette = Better Apps](https://www.youtube.com/watch?v=7bGWuyuLK_4)
 - [Using DevTools for Marionette Debugging](https://www.youtube.com/watch?v=75d0odmbu38)
