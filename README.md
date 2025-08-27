@@ -7,7 +7,7 @@
 - [Official site](http://marionettejs.com/)
 - [Github repository](https://github.com/marionettejs/backbone.marionette)
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
-- [Marionette.js Blog](http://blog.marionettejs.com/)
+- [Marionette.js Blog](https://medium.com/blog-marionettejs)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
 - [Gitter chat](https://gitter.im/marionettejs/backbone.marionette)
 - [Marionette Inspector](https://github.com/marionettejs/marionette.inspector)
@@ -20,10 +20,10 @@
 - [A Thorough Introduction To Backbone.Marionette Part 1: Application](https://www.smashingmagazine.com/2013/02/introduction-backbone-marionette/)
 - [A Thorough Introduction To Backbone.Marionette Part 2: Modules](https://www.smashingmagazine.com/2013/04/thorough-introduction-backbone-marionette-part-2-modules/)
 - [A Thorough Introduction To Backbone.Marionette Part 3: Views](https://www.smashingmagazine.com/2014/06/thorough-introduction-backbone-marionette-part-3/)
-- [A Simple Backbone.Marionette tutorial: Application. Simple List](http://davidsulc.com/blog/2012/05/06/tutorial-a-full-backbone-marionette-application-part-1/)
-- [A Simple Backbone.Marionette tutorial: Application with Interactions](http://davidsulc.com/blog/2012/04/22/a-simple-backbone-marionette-tutorial-part-2/)
-- [A Visual Guide To Marionette.js Views](http://www.artandlogic.com/blog/2013/03/a-visual-guide-to-marionette-js-views/) by Matt Bajoras
-- [Representing Marionette.js Views With State](http://www.artandlogic.com/blog/2013/06/representing-marionette-js-views-with-state/) by Matt Bajoras
+- [A Simple Backbone.Marionette tutorial: Application. Simple List](https://web.archive.org/web/20240928220729/http://davidsulc.com/blog/2012/05/06/tutorial-a-full-backbone-marionette-application-part-1/)
+- [A Simple Backbone.Marionette tutorial: Application with Interactions](https://web.archive.org/web/20240928220646/http://davidsulc.com/blog/2012/04/22/a-simple-backbone-marionette-tutorial-part-2/)
+- [A Visual Guide To Marionette.js Views](https://web.archive.org/web/20160514020036/http://artandlogic.com/2013/03/a-visual-guide-to-marionette-js-views/) by Matt Bajoras
+- [Representing Marionette.js Views With State](https://web.archive.org/web/20160731221628/http://artandlogic.com/2013/06/representing-marionette-js-views-with-state/) by Matt Bajoras
 - [The Case for Marionette.js](http://benmccormick.org/2014/12/02/the-case-for-marionette-js/)
 - [Connecting Data to Your Views](http://benmccormick.org/2014/12/10/marionette-explained-connecting-your-data-to-your-views/)
 - [Building Complex Layouts with Marionette.js](http://benmccormick.org/2014/12/22/building-complex-layouts-with-marionette-js/)
@@ -32,21 +32,21 @@
 - [From Backbone.js to Marionette.js (Russian)](http://habrahabr.ru/post/207730/) - by Mahnunchik
 - [Marionette.js Behaviors, Part 1: The Basics](https://spin.atomicobject.com/2014/09/11/marionette-behaviors-overview/)
 - [Marionette.js Behaviors, Part 2: Testing Behaviors](https://spin.atomicobject.com/2014/09/12/testing-marionette-js-behaviors/)
-- [Things I Learned from Building a Large Scale Backbone + Marionette Application](http://authenticff.com/journal/building-large-scale-backbone-marionette-applications) by Ian Williams
+- [Things I Learned from Building a Large Scale Backbone + Marionette Application](https://web.archive.org/web/20240928220748/https://authenticff.com/insights/building-large-scale-backbone-marionette-applications) by Bryant Hughes
 - [Design Rules in a Backbone-Marionette App](http://cloudandcode.tumblr.com/post/98671637921/design-rules-in-a-backbone-marionette-app)
 - [A Short Primer on Marionette.js](http://cloudandcode.tumblr.com/post/98265035816/a-short-primer-on-marionette-js)
-- [Pimping Backbone with Marionette](http://scm.io/blog/hack/2014/09/backbone-marionette/) by Tom Herold
+- [Pimping Backbone with Marionette](https://web.archive.org/web/20161022130139/http://scm.io/blog/hack/2014/09/backbone-marionette/) by Tom Herold
 - [Handling Forms with Marionette.js](http://spin.atomicobject.com/2013/11/25/forms-marionette-js-backbone/) by Al Scott
 - [Nested Views in Backbone.Marionette](http://blog.mojotech.com/nested-views-in-backbone-marionette/) by Sam Saccone
 - [DRY up Your Views in Backbone Marionette](http://blog.mojotech.com/dry-up-your-views-in-backbone-marionette/) by Sam Saccone
-- [Strengthening Our Backbone with Marionette (Part I)](http://tech.kinja.com/strengthening-our-backbone-with-marionette-part-i-1583630931)
-- [Tutorial: Nested Views Using Backbone Marionette's CompositeView](http://davidsulc.com/blog/2013/02/03/tutorial-nested-views-using-backbone-marionettes-compositeview/) bu David Sulc
+- [Strengthening Our Backbone with Marionette (Part I)](https://web.archive.org/web/20201114222604/https://tech.kinja.com/strengthening-our-backbone-with-marionette-part-i-1583630931)
+- [Tutorial: Nested Views Using Backbone Marionette's CompositeView](https://web.archive.org/web/20240928220644/http://davidsulc.com/blog/2013/02/03/tutorial-nested-views-using-backbone-marionettes-compositeview/) by David Sulc
 - [Components with Backbone.js and Marionette.js](http://blog.jeremyfairbank.com/javascript/components-with-backbone-js-and-marionette-js/) by Jeremy Fairbank
 - [Managing Layouts and Nested Views with Backbone.Marionette](http://lostechies.com/derickbailey/2012/03/22/managing-layouts-and-nested-views-with-backbone-marionette/) by Derick Bailey
 - [Revisiting the Backbone Event Aggregator: Lessons Learned](http://lostechies.com/derickbailey/2012/04/03/revisiting-the-backbone-event-aggregator-lessons-learned/) by Derick Bailey
 - [Why Should I Use Backbone.Marionette Instead of … ?](http://lostechies.com/derickbailey/2012/06/13/why-should-i-use-backbone-marionette-instead-of-%E2%80%A6/) by Derick Bailey
 - [Polymer Web Components with Marionette.js](http://blog.jeremyfairbank.com/javascript/polymer-web-components-with-marionette-js/) by Jeremy Fairbank
-- [Building a Marionette App with Flux Architecture](http://iamnotarealprogrammer.com/flux-architecture-in-a-backbone-and-marionette-app/) by Kurtis Kemple
+- [Building a Marionette App with Flux Architecture](https://web.archive.org/web/20150320150757/http://iamnotarealprogrammer.com/flux-architecture-in-a-backbone-and-marionette-app/) by Kurtis Kemple
 - [Marionette-Service: Service Objects for Marionette](http://benmccormick.org/2015/05/25/marionette-service-service-objects-for-marionette/) by Ben McCormick
 - [Refactoring a JavaScript Application to Use Microservices: What We Learned with Backbone and Marionette](https://www.safaribooksonline.com/blog/2015/11/24/refactoring-javascript-microservice-backbone-marionette/) by Pasha Craydon 
 - [SEO-Enabling Your Marionette App](https://docs.google.com/presentation/d/1jy9SXyr6ZjbY7lOSKN8QraH96-vR7mnAo0ePvzDb8uc/pub?start=false&loop=false&delayms=3000&slide=id.p)
